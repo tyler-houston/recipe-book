@@ -11,5 +11,6 @@
 
 
 ## Instructions
+- chop all ingredients finely
 
 TODO: these are missing
